@@ -2,7 +2,7 @@
 
 I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com).
 
-If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1mCaZPkA63-hQoTU_b7n82MtPxdn2X6-P/view?usp=sharing).
+If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1t9Nk0JWG-wsAGchKpXnLOrQjXqCMvU5w/view?usp=sharing).
 
 ## Education
 - M.Sc., Physics | CSU Northridge (_May 2025_)
@@ -70,7 +70,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 ## Awards/Honors
 - 2024 Department of Physics & Astronomy Summer Research Award
 - 2024 The Debra Costa Graduate Student Scholarship
-- 2024 CSUN Association of Retired Faculty Award (1 of 4 in all graduate programs)
+- 2024 CSUN Association of Retired Faculty Award (1 of 2 in physics since 1999)
 - 2023 CSUNposium winner in the Department of Science & Mathematics
 - 2023 CSUN Betty and Martin Altshiller Memorial for Outstanding Undergraduates
 - 2023 CSUN Paul and Amy Lee Undergraduate Scholarship for Excellence
