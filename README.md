@@ -86,6 +86,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ![Shrine](/assets/img/shrine-jp.jpg)
 ![Nara](/assets/img/nara-jp.jpg)
 ![Art](/assets/img/teamlab-jp.jpg)
+
 ![Waves](/assets/img/DSCF1005.JPG)
 ![Seals](/assets/img/DSCF1092.JPG)
 ![Bird](/assets/img/DSCF1037.JPG)
