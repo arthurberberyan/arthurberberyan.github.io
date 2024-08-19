@@ -2,7 +2,7 @@
 
 I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com).
 
-If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1t9Nk0JWG-wsAGchKpXnLOrQjXqCMvU5w/view?usp=sharing).
+If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/19wXtCiJU_BpcMKrPqfP4KSTx-6dt8RbF/view?usp=sharing).
 
 ## Education
 - M.Sc., Physics | CSU Northridge (_May 2025_)
