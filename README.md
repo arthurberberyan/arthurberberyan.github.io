@@ -9,7 +9,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - B.S., Astrophysics | CSU Northridge (_May 2023_)
 
 ## Publications
-- **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), _in review._ (_June 2024_)
+- **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), (submitted, _June 2024_/accepted, _August 2024_)
 - J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
 
 ## Recent Conferences / Presentations 
@@ -21,7 +21,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 **Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
 - Investigating the coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
 - Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
-- The paper is currently in review!
+- The paper has currently been accepted for publication!
 
 <div align="center">
 <img src="https://arthurberberyan.github.io/home/assets/img/transitionregion.jpg" width="450">
