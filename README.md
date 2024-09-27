@@ -13,7 +13,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
 
 ## Conferences / Presentations 
-- _The search for star-planet interactions in exoplanet systems with highly elliptical orbits_, poster session for the 245th Annual American Astronomical Society (AAS) at National Harbor, Maryland. (_January 2025_) [TBA]()
+- _The search for star-planet interactions in exoplanet systems with highly elliptical orbits_, poster session for the [245th Annual American Astronomical Society (AAS)](https://aas.org/meetings) at National Harbor, Maryland. (_January 2025_) [TBA]()
 - _Searching for mode coupling in magnetic bright points_, presentation for the [Department of Physics & Astronomy's](https://w2.csun.edu/science-mathematics/physics-astronomy) colloquium at CSU, Northridge. (_September 2024_) [slides](https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing)  
 - _The Search for Mode Coupling in the Lower Solar Atmosphere_, presented for [Cool Stars 22](https://coolstars22.github.io/) at the University of California, San Diego. (_June 2024_) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13000314.svg)](https://doi.org/10.5281/zenodo.13000314)
 - _The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun_, presented to the [Association of Retired Faculty (ARF)](https://www.csun.edu/arf/purpose.html) at California State University, Northridge. (_May 2024_) [slides](https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view?usp=sharing)
