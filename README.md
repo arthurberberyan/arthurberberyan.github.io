@@ -30,7 +30,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 </div>
 <br />
 
-**REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
+**REU with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at the [Princeton Center for Complex Materials](https://pccm.princeton.edu/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
