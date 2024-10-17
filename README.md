@@ -2,14 +2,14 @@
 
 I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com).
 
-If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1NT2JlOc03e3JvFuNQq2gDuNGMFhW9rML/view?usp=sharing).
+If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1_fDXLviXy98ggz7MdULJxxjlU1ddyGYj/view?usp=sharing).
 
 ## Education
 - M.S., Physics | CSU Northridge (_May 2025_)
 - B.S., Astrophysics | CSU Northridge (_May 2023_)
 
 ## Publications
-- **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), [arXiv](https://arxiv.org/pdf/2409.11553). (_August 2024_)
+- **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A search for mode coupling in magnetic bright points._", Astronomy & Astrophysics (A&A), [arXiv](https://arxiv.org/pdf/2409.11553). (_August 2024_)
 - J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
 
 ## Conferences / Presentations 
