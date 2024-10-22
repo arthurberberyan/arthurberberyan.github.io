@@ -2,7 +2,7 @@
 
 I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com).
 
-If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1C9Fu_7B2Sc--nj5iERJZqJKNHCN7u2Rl/view?usp=sharing).
+If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1Z5O7teRDcX9ug6EVr8TEnBwiveUZP5kw/view?usp=sharing).
 
 ## Education
 - M.S., Physics | CSU Northridge (_May 2025_)
@@ -10,7 +10,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 
 ## Publications
 - **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A search for mode coupling in magnetic bright points._", Astronomy & Astrophysics (A&A), [DOI](https://doi.org/10.1051/0004-6361/202451199). (_August 2024_)
-- J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [DOI](https://doi.org/10.3847/1538-3881/acc3a0). (_May 2023_) 
+- J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [DOI](https://doi.org/10.3847/1538-3881/acc3a0). (_April 2023_) 
 
 ## Conferences / Presentations 
 - _The search for star-planet interactions in exoplanet systems with highly elliptical orbits_, poster session for the [245th Annual American Astronomical Society (AAS)](https://aas.org/meetings) at National Harbor, Maryland. (_January 2025_) [TBA]()
