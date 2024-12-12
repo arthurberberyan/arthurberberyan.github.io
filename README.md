@@ -83,7 +83,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - 2018 NASA Community College Aerospace Scholar (NCAS)
 
 ## In My Free Time
-When I am not researching, teaching my labs, or studying for exams, I enjoy taking photos with my _iPhone_ and _Fujifilm X100V_ camera. Here are some recent pictures I have taken in Japan and La Jolla respectively:
+When I am not researching, teaching my labs, or studying for exams, I enjoy taking photos with my _iPhone_ and _Fujifilm X100V_ camera. Here are some recent pictures I have taken in:
 
 _-Japan_
 ![Monkey](/assets/img/monkey-jp.jpg)
