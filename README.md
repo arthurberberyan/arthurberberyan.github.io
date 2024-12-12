@@ -70,7 +70,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
   - PHYS 100BL: General Physics II (_August 2023 - December 2023_)
 
 ## Awards/Honors
--2024 Department of Physics & Astronomy Travel Award
+- 2024 Department of Physics & Astronomy Travel Award
 - 2024 Department of Physics & Astronomy Summer Research Award
 - 2024 The Debra Costa Graduate Student Scholarship
 - 2024 CSUN Association of Retired Faculty Award (1 of 2 in physics since 1999)
