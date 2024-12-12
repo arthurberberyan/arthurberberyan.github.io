@@ -85,11 +85,13 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 ## In My Free Time
 When I am not researching, teaching my labs, or studying for exams, I enjoy taking photos with my _iPhone_ and _Fujifilm X100V_ camera. Here are some recent pictures I have taken in Japan and La Jolla respectively:
 
+_-Japan_
 ![Monkey](/assets/img/monkey-jp.jpg)
 ![Shrine](/assets/img/shrine-jp.jpg)
 ![Nara](/assets/img/nara-jp.jpg)
 ![Art](/assets/img/teamlab-jp.jpg)
 
+_-San Diego_
 ![Waves](/assets/img/DSCF1005.JPG)
 ![Seals](/assets/img/DSCF1092.JPG)
 ![Bird](/assets/img/DSCF1037.JPG)
