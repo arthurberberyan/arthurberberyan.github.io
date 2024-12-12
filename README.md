@@ -21,9 +21,9 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 
 ## Research Experience 
 **Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
-- Investigating the coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
-- Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
-- The paper has been published!
+- Investigating the Coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
+- Utilizing **IDL** and **bash** to derive light curves, calculate frequencies and periods to look for possible wave heating mechanisms
+- The paper was published in August 2024 (woo-hoo!)
 
 <div align="center">
 <img src="https://arthurberberyan.github.io/home/assets/img/transitionregion.jpg" width="450">
@@ -61,15 +61,16 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
-- I have significantly contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
+- Contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
 - My goal is to simply complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
-- My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship + academic researcher
-- _Some of the labs I have conducted_:
+- My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship
+- _Some of the recent labs I have conducted_:
   - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
   - PHYS 220AL: Mechanics Lab (_January 2024 - May 2024_)
   - PHYS 100BL: General Physics II (_August 2023 - December 2023_)
 
 ## Awards/Honors
+-2024 Department of Physics & Astronomy Travel Award
 - 2024 Department of Physics & Astronomy Summer Research Award
 - 2024 The Debra Costa Graduate Student Scholarship
 - 2024 CSUN Association of Retired Faculty Award (1 of 2 in physics since 1999)
