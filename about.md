@@ -52,7 +52,7 @@ permalink: Arthur/what
     University of California, San Diego<br>
     Email: <a href="mailto:aberberyan@ucsd.edu">aberberyan@ucsd.edu</a><br>
     <a href="https://drive.google.com/file/d/1LQeEKru-W9i-fmHNsVSGfeIC7pp2a9fh/view?usp=sharing">Curriculum Vitae (PDF)</a>
-    <a href="/berberyan_cv_utd.pdf"> TEST CV </a>
+    <a href="https://raw.githubusercontent.com/arthurberberyan/possible/berberyan_cv_utd.pdf"> TEST CV </a>
   </div>
 
   <hr>
