@@ -69,7 +69,6 @@ permalink: /background
   <h2>Publications</h2>
   <ul>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</em>. Astronomy & Astrophysics (A&A).</li>
-    <li>Doe, J. (2022). <em>Another Placeholder Title</em>. Physics Letters B.</li>
   </ul>
 
   <h2>Teaching</h2>
