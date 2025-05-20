@@ -58,12 +58,17 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-    My research focuses on placeholder topics such as quantum field theory, high-energy physics, and cosmology.
+    My research focuses on placeholder topics such as ...
   </p>
 
+  <h2>Education</h2>
+  <p>
+    
+  </p>
+  
   <h2>Publications</h2>
   <ul>
-    <li>Doe, J. et al. (2023). <em>Title of Placeholder Paper</em>. Journal of Theoretical Physics.</li>
+    <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</em>. Astronomy & Astrophysics (A&A).</li>
     <li>Doe, J. (2022). <em>Another Placeholder Title</em>. Physics Letters B.</li>
   </ul>
 
