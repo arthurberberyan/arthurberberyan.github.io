@@ -69,6 +69,7 @@ permalink: /background
   <h2>Publications</h2>
   <ul>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</a></em>. Astronomy & Astrophysics (A&A).</li>
+    <li>J.T. Clark, et al. (2023). <em><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0">Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778</a></em>. The Astronomical Journal (AJ).</li>
   </ul>
 
   <h2>Teaching</h2>
