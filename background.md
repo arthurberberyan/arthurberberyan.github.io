@@ -62,9 +62,18 @@ permalink: /background
   </p>
 
   <h2>Education</h2>
-  <p>
-    
-  </p>
+ <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <div>
+    <p style="margin: 0;">
+      <strong>Ph.D. Student, Astronomy</strong><br>
+      <em>University of California, San Diego</em><br>
+      <span>Starting Sept. 2025</span>
+    </p>
+  </div>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg/1280px-Seal_of_the_University_of_California%2C_San_Diego.svg.png" alt="UCSD logo" style="height: 100px;">
+  </div>
+</div>
   
   <h2>Publications</h2>
   <ul>
