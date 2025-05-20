@@ -46,12 +46,12 @@ permalink: Arthur/what
   </style>
 </head>
 <body>
-  <h1>John Doe</h1>
+  <h1>Arthur Berberyan</h1>
   <div class="contact">
     Department of Astronomy & Astrophysics<br>
     University of California, San Diego<br>
     Email: <a href="mailto:aberberyan@ucsd.edu">aberberyan@ucsd.edu</a><br>
-    <a href="your_cv.pdf">Curriculum Vitae (PDF)</a>
+    <a href="/assets/berberyan_cv.utd.pdf">Curriculum Vitae (PDF)</a>
   </div>
 
   <hr>
