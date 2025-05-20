@@ -71,7 +71,7 @@ permalink: /background
     </p>
   </div>
   <div>
-    <img src="ucsdlogo.png" alt="UCSD logo" style="height: 100px;">
+    <img src="ucsdlogo.png" alt="UCSD logo" style="height: 50px;">
   </div>
 </div>
   
