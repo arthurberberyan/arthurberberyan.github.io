@@ -3,12 +3,10 @@ title: idk
 layout: home
 permalink: Arthur/what
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>John Doe - Homepage</title>
+  <title>Arthur Berberyan - Homepage</title>
   <style>
     body {
       font-family: "Times New Roman", Times, serif;
@@ -50,9 +48,9 @@ permalink: Arthur/what
 <body>
   <h1>John Doe</h1>
   <div class="contact">
-    Department of Physics and Astronomy<br>
-    Filler University<br>
-    Email: <a href="mailto:johndoe@example.com">johndoe@example.com</a><br>
+    Department of Astronomy & Astrophysics<br>
+    University of California, San Diego<br>
+    Email: <a href="mailto:aberberyan@ucsd.edu">aberberyan@ucsd.edu</a><br>
     <a href="your_cv.pdf">Curriculum Vitae (PDF)</a>
   </div>
 
