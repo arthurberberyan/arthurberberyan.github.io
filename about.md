@@ -1,7 +1,7 @@
 ---
 title: idk
 layout: home
-permalink: /what
+permalink: Arthur/what
 ---
 
 testing to see if this will work
