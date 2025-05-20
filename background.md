@@ -71,7 +71,7 @@ permalink: /background
     </p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/ucsdlogo.png" width="200" title="UCSD logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg" width="150" alt="UCSD logo">
   </div>
 </div>
   
