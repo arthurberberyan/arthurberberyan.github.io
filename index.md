@@ -1,7 +1,7 @@
 ---
 title: Arthur
 layout: home
-permalink: /
+permalink: /arthur
 ---
 
 # Lorem ipsum
