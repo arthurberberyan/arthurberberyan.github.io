@@ -1,7 +1,7 @@
 ---
 title: idk
 layout: home
-permalink: /what
+permalink: Arthur/what
 ---
 <html lang="en">
 <head>
