@@ -51,7 +51,7 @@ permalink: Arthur/what
     Department of Astronomy & Astrophysics<br>
     University of California, San Diego<br>
     Email: <a href="mailto:aberberyan@ucsd.edu">aberberyan@ucsd.edu</a><br>
-    <a href="berberyan_cv.utd.pdf">Curriculum Vitae (PDF)</a>
+    <a href="/Arthur/berberyan_cv.utd.pdf">Curriculum Vitae (PDF)</a>
   </div>
 
   <hr>
