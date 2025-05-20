@@ -62,7 +62,7 @@ permalink: /background
   </p>
 
   <h2>Education</h2>
- <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
     <p style="margin: 0;">
       <strong>Ph.D. Student, Astronomy</strong><br>
@@ -71,10 +71,10 @@ permalink: /background
     </p>
   </div>
   <div>
-    <img src="ucsdlogo.png" alt="UCSD logo" style="height: 40px; max-width: 150px; object-fit: contain; margin-left: 1em;">
+    <img src="ucsdlogo.png" alt="UCSD logo" style="height: 40px; width: auto; margin-left: 1em;">
   </div>
 </div>
-  
+
   
   <h2>Publications</h2>
   <ul>
