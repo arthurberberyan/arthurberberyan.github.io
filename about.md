@@ -1,7 +1,7 @@
 ---
 title: background
 layout: home
-permalink: Arthur/background
+permalink: /background
 ---
 <html lang="en">
 <head>
