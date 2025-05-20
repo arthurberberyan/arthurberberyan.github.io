@@ -70,10 +70,9 @@ permalink: /background
       <span>Starting Sept. 2025</span>
     </p>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/ucsdlogo.png" width="300" title="UCSD Logo">
-  </div>
 </div>
+
+  <img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/ucsdlogo.png" width="300" title="UCSD Logo">
 
   
   <h2>Publications</h2>
