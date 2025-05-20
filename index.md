@@ -1,5 +1,5 @@
 ---
-title: /
+title: Arthur
 layout: home
 permalink: /
 ---
