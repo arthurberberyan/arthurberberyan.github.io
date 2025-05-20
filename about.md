@@ -1,6 +1,6 @@
 ---
 title: background
-layout: home
+layout: page
 permalink: /background
 ---
 <html lang="en">
