@@ -1,7 +1,7 @@
 ---
-title: idk
+title: background
 layout: home
-permalink: Arthur/idk
+permalink: Arthur/background
 ---
 <html lang="en">
 <head>
