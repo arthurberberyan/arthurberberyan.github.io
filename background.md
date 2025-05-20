@@ -72,11 +72,16 @@ permalink: /background
     <li>J.T. Clark, et al. (2023). <em><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0">Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778</a></em>. The Astronomical Journal (AJ).</li>
   </ul>
 
-  <h2>Teaching</h2>
-  <ul>
-    <li>PHYS 100: General Physics</li>
-    <li>PHYS 410: Electromagnetism</li>
-  </ul>
+<h2>Teaching</h2>
+
+<ul>
+  <li>
+    <strong>California State University, Northridge</strong><br>
+    ASTR 154L: <em>Observational Astronomy Lab</em> (August 2023 – May 2025)<br>
+    PHYS 220AL: <em>Mechanics Lab</em> (January 2024 – May 2024)<br>
+    PHYS 100BL: <em>General Physics II</em> (August 2023 – December 2023)
+  </li>
+</ul>
 
   <h2>Links</h2>
   <ul>
