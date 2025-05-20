@@ -71,7 +71,7 @@ permalink: /background
     </p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/arthurberberyan/possible/ucsdlogo.png" width="200" title="UCSD logo">
+    <img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/ucsdlogo.png" width="200" title="UCSD logo">
   </div>
 </div>
   
