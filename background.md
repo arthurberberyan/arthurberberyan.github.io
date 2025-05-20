@@ -70,10 +70,7 @@ permalink: /background
       <span>Starting Sept. 2025</span>
     </p>
   </div>
-  <div>
-    <img src="ucsdlogo.png" alt="UCSD logo" style="height: 40px; max-width: 150px; object-fit: contain;">
-  </div>
-</div>
+  
   
   <h2>Publications</h2>
   <ul>
