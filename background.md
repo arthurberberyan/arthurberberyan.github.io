@@ -67,14 +67,31 @@ permalink: /background
     <p style="margin: 0;">
       <strong>Ph.D. Student, Astronomy</strong><br>
       <em>University of California, San Diego</em><br>
-      <span>Starting Sept. 2025</span>
+      <span>Starting September 2025</span>
     </p>
   </div>
 </div>
 
-  <img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/ucsdlogo.png" width="300" title="UCSD Logo">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <div>
+    <p style="margin: 0;">
+      <strong>M.S., Physics</strong><br>
+      <em>California State University, Northridge</em><br>
+      <span>August 2023 - May 2025</span>
+    </p>
+  </div>
+</div>
 
-  
+ <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <div>
+    <p style="margin: 0;">
+      <strong>B.S., Astrophysics</strong><br>
+      <em>California State University, Northridge</em><br>
+      <span>August 2021 - May 2023</span>
+    </p>
+  </div>
+</div>
+
   <h2>Publications</h2>
   <ul>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</a></em>. Astronomy & Astrophysics (A&A).</li>
