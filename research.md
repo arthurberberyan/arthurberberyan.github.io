@@ -53,7 +53,7 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="400">
+  <img src="https://arthurberberyan.github.io/home/assets/transregutd2.png" alt="Transition Region" width="400">
 </p>
 
 <div style="margin-bottom: 2em;">
@@ -72,7 +72,7 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/metamaterials.jpeg" alt="Acoustic" width="500">
+  <img src="https://arthurberberyan.github.io/home/assets/metamaterials.jpeg" alt="Acoustic" width="500">
 </p>
 
 <div style="margin-bottom: 2em;">
@@ -91,7 +91,7 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/nexsci_logo.png" alt="NExScI" width="400">
+  <img src="https://arthurberberyan.github.io/home/assets/nexsci_logo.png" alt="NExScI" width="400">
 </p>
 
 <div style="margin-bottom: 2em;">
@@ -108,5 +108,5 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/palomar.png" alt="Palomar" width="170">
+  <img src="https://arthurberberyan.github.io/home/assets/palomar.png" alt="Palomar" width="170">
 </p>
