@@ -1,7 +1,7 @@
 ---
-title: 
+title: home
 layout: page
-permalink: /
+permalink: /home
 ---
 
 
