@@ -3,6 +3,7 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
+  - README.md
   - arthur.md
   - background.md
   - research.md
