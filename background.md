@@ -58,7 +58,7 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-    My research focuses on placeholder topics such as ...
+    My research focuses on placeholder topics such as ... (this is coming soon!)
   </p>
 
   <h2>Education</h2>
