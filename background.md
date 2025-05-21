@@ -100,6 +100,7 @@ permalink: /background
   <img src="https://arthurberberyan.github.io/possible/csun.png" alt="CSUN Logo's Photo" width="108">
 </p> 
 
+<br>
   <h2>Publications</h2>
   <ul>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</a></em>. Astronomy & Astrophysics (A&A).</li>
