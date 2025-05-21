@@ -117,5 +117,22 @@ permalink: /background
   </li>
 </ul>
 
+<h2>Awards & Honors</h2>
+<ul>
+  <li>2025–2026 UCSD Astronomy & Astrophysics Achievement Award</li>
+  <li>2025 Sigma Pi Sigma Honor Society Member, American Institute of Physics</li>
+  <li>2024 Department of Physics & Astronomy Travel Award</li>
+  <li>2024 Department of Physics & Astronomy Summer Research Award</li>
+  <li>2024 The Debra Costa Graduate Student Scholarship</li>
+  <li>2024 CSUN Association of Retired Faculty Award (1 of 2 in physics since 1999)</li>
+  <li>2023 CSUNposium Winner in the Department of Science & Mathematics</li>
+  <li>2023 CSUN Betty and Martin Altshiller Memorial for Outstanding Undergraduates</li>
+  <li>2023 CSUN Paul and Amy Lee Undergraduate Scholarship for Excellence</li>
+  <li>2022–2023 CSUN Undergraduate Department of Science & Mathematics Dean’s List</li>
+  <li>2021 CSUN MSP SAGE Society Scholarship</li>
+  <li>2019 California Space Grant Consortium</li>
+  <li>2018 NASA Community College Aerospace Scholar (NCAS)</li>
+</ul>
+
 </body>
 </html>
