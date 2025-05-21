@@ -121,7 +121,7 @@ permalink: /background
     <u>California State University, Northridge</u><br>
     ASTR 154L: <em>Observational Astronomy Lab</em> (August 2023 – May 2025)<br>
     PHYS 220AL: <em>Mechanics Lab</em> (January 2024 – May 2024)<br>
-    PHYS 100BL: <em>General Physics II</em> (August 2023 – December 2023)
+    PHYS 100BL: <em>General Physics II Lab</em> (August 2023 – December 2023)
   </li>
 </ul>
 
