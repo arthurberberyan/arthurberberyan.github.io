@@ -4,7 +4,7 @@ layout: home
 permalink: /arthur
 ---
 <p align="center">
-  <img src="https://arthurberberyan.github.io/possible/assets/profile.jpg" alt="Arthur's Photo" width="200">
+  <img src="https://arthurberberyan.github.io/assets/profile.jpg" alt="Arthur's Photo" width="200">
 </p>
 
 <p>Hello! I'm Arthur, an incoming Ph.D. student in Astronomy at the 
