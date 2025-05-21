@@ -37,7 +37,7 @@ permalink: /research
 
 <h2>Research Experience</h2>
 
-<div style="margin-bottom: 2em;">
+<div style="margin-bottom: 5em;">
   <h3 style="margin-bottom: 0;">Solar Physics Researcher</h3>
   <p style="margin: 0;">
     <em>California State University, Northridge</em><br>
