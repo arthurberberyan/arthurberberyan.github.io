@@ -51,3 +51,7 @@ permalink: /research
     <li>The paper was published in <strong>August 2024</strong> (<em>woo-hoo!</em>)</li>
   </ul>
 </div>
+
+<p align="center">
+  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="300">
+</p>
