@@ -78,6 +78,25 @@ permalink: /research
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Research Assistant</h3>
   <p style="margin: 0;">
+    <em>Infrared Processing and Analysis Center (IPAC), Caltech</em><br>
+    Advisor: <a href="https://web.ipac.caltech.edu/staff/ciardi/">Dr. David R. Ciardi</a><br>
+    <span>August 2019 - August 2020</span>
+  </p>
+
+  <ul>
+    <li>Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI) candidate stars and exoplanets with high image processing in near-infrared adaptive optics.</li>
+    <li>Analyzed stellar data <b>(IDL)</b>, calculated star magnitudes, distances, and luminosities.</li>
+    <li>Contributed to a better understanding of potential habitable planets and their host stars.</li>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://arthurberberyan.github.io/assets/nexsci_logo.png" alt="NExScI" width="450">
+</p>
+
+<div style="margin-bottom: 2em;">
+  <h3 style="margin-bottom: 0;">Research Assistant</h3>
+  <p style="margin: 0;">
     <em>Palomar Observatory </em><br>
     <span>June 2019</span>
   </p>
