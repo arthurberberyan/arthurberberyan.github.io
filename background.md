@@ -76,6 +76,7 @@ permalink: /background
   <img src="https://arthurberberyan.github.io/possible/ucsdlogo.png" alt="UCSD Logo" width="100">
 </p>
 
+<br>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
@@ -100,6 +101,8 @@ permalink: /background
 <p align="center">
   <img src="https://arthurberberyan.github.io/possible/csun.png" alt="CSUN Logo's Photo" width="108">
 </p>
+
+<br> 
 
   <h2>Publications</h2>
   <ul>
