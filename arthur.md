@@ -1,6 +1,6 @@
 ---
-title: Arthur
-layout: home
+title: arthur
+layout: page
 permalink: /arthur
 ---
 <p align="center">
