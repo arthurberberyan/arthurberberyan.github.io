@@ -72,17 +72,6 @@ permalink: /background
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-  <div>
-    <p style="margin: 0;">
-      <strong>Ph.D. Student, Astronomy</strong><br>
-      <em>University of California, San Diego</em><br>
-      <span>Starting September 2025</span>
-    </p>
-  </div>
-  <img src="https://arthurberberyan.github.io/home/ucsdlogo.png" alt="UCSD Logo" width="100">
-</div>
-
 <p align="center">
   <img src="https://arthurberberyan.github.io/home/ucsdlogo.png" alt="UCSD Logo" width="100">
 </p>
