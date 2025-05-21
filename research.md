@@ -102,7 +102,7 @@ permalink: /research
   </p>
 
 <ul>
-    <li>Collaborated with Caltech astronomers with the 200-inch <a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Hale telescope </a> to capture imaging of Kepler star systems and exoplanets.</li>
+    <li>Collaborated with Caltech astronomers with the 200-inch <a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Hale Telescope </a> to capture imaging of Kepler star systems and exoplanets.</li>
     <li>Captured imaging of individual stars and data analysis from high-quality image processing.</li>
   </ul>
 </div>
