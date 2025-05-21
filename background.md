@@ -73,7 +73,7 @@ permalink: /background
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/possible/ucsdlogo.png" alt="Arthur's Photo" width="200">
+  <img src="https://arthurberberyan.github.io/possible/ucsdlogo.png" alt="Arthur's Photo" width="100">
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
