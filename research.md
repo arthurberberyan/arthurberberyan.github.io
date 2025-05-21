@@ -21,6 +21,7 @@ permalink: /research
     <strong>The Search for Mode Coupling in the Lower Solar Atmosphere</strong><br>
     Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> <a href="https://doi.org/10.5281/zenodo.13000314"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13000314.svg" alt="DOI"></a>
 
+
   </li>
   
   <li>
