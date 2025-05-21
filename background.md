@@ -62,7 +62,7 @@ permalink: /background
   </p>
 
   <h2>Education</h2>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+<div style="display: ; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
     <p style="margin: 0;">
       <strong>Ph.D. Student, Astronomy</strong><br>
@@ -76,9 +76,7 @@ permalink: /background
   <img src="https://arthurberberyan.github.io/possible/ucsdlogo.png" alt="UCSD Logo" width="100">
 </p>
 
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+<div style="display: ; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
     <p style="margin: 0;">
       <strong>M.S., Physics</strong><br>
@@ -100,9 +98,7 @@ permalink: /background
 
 <p align="center">
   <img src="https://arthurberberyan.github.io/possible/csun.png" alt="CSUN Logo's Photo" width="108">
-</p>
-
-<br> 
+</p> 
 
   <h2>Publications</h2>
   <ul>
