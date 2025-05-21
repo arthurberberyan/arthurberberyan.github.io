@@ -47,11 +47,11 @@ permalink: /research
 
   <ul>
     <li>Investigated the coronal heating problem by studying mode coupling in magnetic bright points within the different layers of the Sun.</li>
-    <li>Used <code>IDL</code> with <code>bash</code> scripting to derive light curves, calculated frequencies, periods, and estimate energy fluxes to identify potential wave heating mechanisms.</li>
+    <li>Used <code>IDL</code> with <code>bash</code> scripting to derive light curves, calculate frequencies, periods, and estimate energy fluxes to identify potential wave heating mechanisms.</li>
     <li>The paper was published in <strong>August 2024</strong> (<em>woo-hoo!</em>)</li>
   </ul>
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="500">
+  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="450">
 </p>
