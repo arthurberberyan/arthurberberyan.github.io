@@ -89,5 +89,5 @@ permalink: /research
 </div>
 
 <p align="center">
-<img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="200">
+  <img src="https://arthurberberyan.github.io/assets/palomar.png" alt="Palomar" width="250">
 </p>
