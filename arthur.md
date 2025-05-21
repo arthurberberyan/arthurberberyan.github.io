@@ -3,8 +3,9 @@ title: Arthur
 layout: home
 permalink: /arthur
 ---
-
-![Arthur](/assets/profile.jpg)
+<div style="text-align: center;">
+  ![Arthur](/assets/profile.jpg)
+</div>
 
 <p>Hello! I'm Arthur, an incoming Ph.D. student in Astronomy at the 
 <a href="https://astro.ucsd.edu/">University of California, San Diego</a>.</p>
