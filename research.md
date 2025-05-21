@@ -78,7 +78,7 @@ permalink: /research
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Research Assistant</h3>
   <p style="margin: 0;">
-    <em> Palomar Observatory </em><br>
+    <em>Palomar Observatory </em><br>
     <span>June 2019</span>
   </p>
 
