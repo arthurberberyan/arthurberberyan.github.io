@@ -8,7 +8,7 @@ header_pages:
   - background.md
   - research.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<em>I laugh when I hear that the fish in the water is thirsty. -Kabir</em>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
