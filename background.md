@@ -117,11 +117,5 @@ permalink: /background
   </li>
 </ul>
 
-  <h2>Links</h2>
-  <ul>
-    <li><a href="https://github.com/placeholder">GitHub</a></li>
-    <li><a href="https://scholar.google.com/citations?user=placeholder">Google Scholar</a></li>
-    <li><a href="https://www.linkedin.com/in/placeholder">LinkedIn</a></li>
-  </ul>
 </body>
 </html>
