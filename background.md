@@ -80,6 +80,7 @@ permalink: /background
   <div>
     <p style="margin: 0;">
       <strong>M.S., Physics</strong><br>
+      Thesis: <em>Mode Coupling of Magnetic Bright Points in the Solar Atmosphere</em><br>
       <em>California State University, Northridge</em><br>
       <span>August 2023 - May 2025</span>
     </p>
