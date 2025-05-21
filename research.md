@@ -8,18 +8,19 @@ permalink: /research
 
 <ul>
   <li>
-    <strong>The Search for Star-Planet Interactions in Exoplanet Systems with Highly Elliptical Orbits</strong><br>
-    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em> – iPoster
+    <u>The search for star-planet interactions in exoplanet systems with highly elliptical orbits</u><br>
+    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em> – <a href="https://aas245-aas.ipostersessions.com/Default.aspx?s=9D-55-24-B1-41-8A-7D-8E-D4-BC-EB-DF-4D-28-6E-39"> iPoster</a>
   </li>
   
   <li>
-    <strong>Searching for Mode Coupling in Magnetic Bright Points</strong><br>
-    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> – <a href="LINK_TO_SLIDES">slides</a>
+    <u>Searching for mode coupling in magnetic bright points</u><br>
+    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> – <a href="https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing">slides</a>
   </li>
   
   <li>
     <strong>The Search for Mode Coupling in the Lower Solar Atmosphere</strong><br>
-    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> – <a href="LINK_TO_DOI">DOI</a>
+    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> <a href="https://doi.org/10.5281/zenodo.13000314"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13000314.svg" alt="DOI"></a>
+
   </li>
   
   <li>
