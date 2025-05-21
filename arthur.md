@@ -4,7 +4,7 @@ layout: home
 permalink: /arthur
 ---
 
-<img src="https://raw.githubusercontent.com/arthurberberyan/possible/master/assets/IMG_7447.jpg" alt="Arthur's photo" style="max-width: 50px; border-radius: 10px; display: block; margin: 0 auto 1em;">
+![Arthur](https://raw.githubusercontent.com/arthurberberyan/possible/master/assets/IMG_7447.jpg)
 
 <p>Hello! I'm Arthur, an incoming Ph.D. student in Astronomy at the 
 <a href="https://astro.ucsd.edu/">University of California, San Diego</a>.</p>
