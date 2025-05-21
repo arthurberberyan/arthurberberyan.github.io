@@ -107,7 +107,6 @@ permalink: /background
   </ul>
 
 <h2>Teaching</h2>
-
 <ul>
   <li>
     <u>California State University, Northridge</u><br>
