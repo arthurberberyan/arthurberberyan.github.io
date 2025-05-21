@@ -47,11 +47,30 @@ permalink: /research
 
   <ul>
     <li>Investigated the coronal heating problem by studying mode coupling in magnetic bright points within the different layers of the Sun.</li>
-    <li>Used <code>IDL</code> with <code>bash</code> scripting to derive light curves, calculate frequencies, periods, and estimate energy fluxes to identify potential wave heating mechanisms.</li>
+    <li>Used <b>IDL</b> with bash scripting to derive light curves, calculate frequencies, periods, and estimate energy fluxes to identify potential wave heating mechanisms.</li>
     <li>The paper was published in <strong>August 2024</strong> (<em>woo-hoo!</em>)</li>
   </ul>
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="450">
+  <img src="https://arthurberberyan.github.io/assets/transregutd2.png" alt="Transition Region" width="400">
+</p>
+
+<div style="margin-bottom: 2em;">
+  <h3 style="margin-bottom: 0;">Research Experiences for Undergraduates (REU)</h3>
+  <p style="margin: 0;">
+    <em>Princeton Center for Complex Materials, Princeton University</em><br>
+    Advisor: <a href="https://www.princeton.edu/~akosmrlj/">Dr. Andrej Košmrlj</a><br>
+    <span>June 2022 – August 2022</span>
+  </p>
+
+  <ul>
+    <li>Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals.</li>
+    <li>Collaborated with Princeton graduate students, incorporating <b>Python</b> coding with open source <b>FEniCSx</b> to solve PDEs and gain insight into how elastic waves behave in deforming materials.</li>
+    <li>Conclusions led to promising applications in noise reduction and vibrational control.</li>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://arthurberberyan.github.io/assets/metamaterials.jpeg" alt="Acoustic" width="500">
 </p>
