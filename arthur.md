@@ -4,7 +4,7 @@ layout: home
 permalink: /arthur
 ---
 
-![Arthur](https://raw.githubusercontent.com/arthurberberyan/possible/assets/IMG_7447.jpg)
+![Arthur](/assets/IMG_7447.jpg)
 
 <p>Hello! I'm Arthur, an incoming Ph.D. student in Astronomy at the 
 <a href="https://astro.ucsd.edu/">University of California, San Diego</a>.</p>
