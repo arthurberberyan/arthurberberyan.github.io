@@ -3,7 +3,7 @@ title: Arthur
 layout: home
 permalink: /arthur
 ---
-<div style="text-align: center;">
+<div style="display: block; margin: 0 auto;">
     <img src="https://arthurberberyan.github.io/possible/assets/profile.jpg" alt="Arthur's Photo" style="width: 200px;">
   </div>
 
