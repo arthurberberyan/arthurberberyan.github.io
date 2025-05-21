@@ -78,7 +78,7 @@ permalink: /research
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Research Assistant</h3>
   <p style="margin: 0;">
-    <em><a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Palomar Observatory </a></em><br>
+    <em> Palomar Observatory </em><br>
     <span>June 2019</span>
   </p>
 
@@ -88,6 +88,6 @@ permalink: /research
   </ul>
 </div>
 
-<div align="center">
+<p align="center">
 <img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="200">
-</div>
+</p>
