@@ -89,5 +89,5 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/palomar.png" alt="Palomar" width="250">
+  <img src="https://arthurberberyan.github.io/assets/palomar.png" alt="Palomar" width="100">
 </p>
