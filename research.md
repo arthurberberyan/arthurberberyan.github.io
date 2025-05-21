@@ -74,3 +74,20 @@ permalink: /research
 <p align="center">
   <img src="https://arthurberberyan.github.io/assets/metamaterials.jpeg" alt="Acoustic" width="500">
 </p>
+
+<div style="margin-bottom: 2em;">
+  <h3 style="margin-bottom: 0;">Research Assistant</h3>
+  <p style="margin: 0;">
+    <em><a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Palomar Observatory </a></em><br>
+    <span>June 2019</span>
+  </p>
+
+<ul>
+    <li>Collaborated with Caltech astronomers with the 200-inch <a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Hale telescope </a> to capture imaging of Kepler star systems and exoplanets.</li>
+    <li>Captured imaging of individual stars and data analysis from high-quality image processing.</li>
+  </ul>
+</div>
+
+<div align="center">
+<img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="200">
+</div>
