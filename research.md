@@ -19,19 +19,19 @@ permalink: /research
   
   <li>
     <strong>The Search for Mode Coupling in the Lower Solar Atmosphere</strong><br>
-    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> <a href="https://doi.org/10.5281/zenodo.13000314"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13000314.svg" alt="DOI"></a>
+    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> - <a href="https://zenodo.org/records/13000314">DOI</a>
 
 
   </li>
   
   <li>
-    <strong>The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</strong><br>
-    Presentation to the Association of Retired Faculty (ARF), CSU Northridge. <em>(May 2024)</em> – <a href="LINK_TO_SLIDES">slides</a>
+    <u>The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</u><br>
+    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> – <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">slides</a>
   </li>
   
   <li>
-    <strong>Elastic Wave Propagation in Compressed Phononic Crystals</strong><br>
-    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> – <a href="LINK_TO_POSTER">poster</a>
+    <u>Elastic Wave Propagation in Compressed Phononic Crystals</u><br>
+    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> – <a href="https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view">poster</a>
   </li>
 </ul>
 
