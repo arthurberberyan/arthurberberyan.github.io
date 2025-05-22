@@ -5,6 +5,7 @@ permalink: /arthur
 ---
 <p align="center">
   <img src="https://arthurberberyan.github.io/home/assets/profile.jpg" alt="Arthur's Photo" width="200">
+  <figcaption>A snowball made during the 245th American Astronomical Society meeting at National Harbor.</figcaption>
 </p>
 
 <p>Hello! I'm Arthur, an incoming Ph.D. student in Astronomy at the 
