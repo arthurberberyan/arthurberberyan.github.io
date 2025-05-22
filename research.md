@@ -53,7 +53,7 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/home/assets/transregutd2.png" alt="Transition Region" width="400">
+  <img src="https://arthurberberyan.github.io/home/assets/transregutd2.png" alt="Transition Region" width="350">
 </p>
 
 <div style="margin-bottom: 2em;">
