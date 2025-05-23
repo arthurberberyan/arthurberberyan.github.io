@@ -102,7 +102,7 @@ permalink: /background
 </p> 
 
  <p>
-    I am also a member of the Sigma Pi Sigma physics honor society.
+    I am also a member of the Sigma Pi Sigma physics and astronomy honor society.
   </p>
 
   <p align="center">
