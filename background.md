@@ -73,7 +73,7 @@ permalink: /background
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/home/ucsdlogo.png" alt="UCSD Logo" width="100">
+  <img src="https://arthurberberyan.github.io/home/ucsdlogo.png" alt="UCSD Logo" width="90">
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
@@ -98,7 +98,7 @@ permalink: /background
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/home/csun.png" alt="CSUN Logo's Photo" width="108">
+  <img src="https://arthurberberyan.github.io/home/csun.png" alt="CSUN Logo's Photo" width="98">
 </p> 
 
  <p>
@@ -106,7 +106,7 @@ permalink: /background
   </p>
 
   <p align="center">
-  <img src="https://arthurberberyan.github.io/home/assets/sps.jpg" alt="CSUN Logo's Photo" width="50">
+  <img src="https://arthurberberyan.github.io/home/assets/sps.jpg" alt="CSUN Logo's Photo" width="40">
 </p> 
 
   <h2>Publications</h2>
