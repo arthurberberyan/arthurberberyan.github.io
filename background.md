@@ -132,10 +132,10 @@ permalink: /background
   <li>2024 Department of Physics & Astronomy Travel Award</li>
   <li>2024 Department of Physics & Astronomy Summer Research Award</li>
   <li>2024 The Debra Costa Graduate Student Scholarship</li>
-  <li>2024 CSUN Association of Retired Faculty Award (1 of 2 in physics since 1999)</li>
+  <li>2024 Association of Retired Faculty Award (1 of 2 in physics since 1999)</li>
   <li>2023 CSUNposium Winner in the Department of Science & Mathematics</li>
-  <li>2023 CSUN Betty and Martin Altshiller Memorial for Outstanding Undergraduates</li>
-  <li>2023 CSUN Paul and Amy Lee Undergraduate Scholarship for Excellence</li>
+  <li>2023 Betty and Martin Altshiller Memorial for Outstanding Undergraduates</li>
+  <li>2023 Paul and Amy Lee Undergraduate Scholarship for Excellence</li>
 </ul>
 
 </body>
