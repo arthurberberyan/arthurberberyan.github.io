@@ -5,7 +5,7 @@ permalink: /haiku
 ---
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/home/assets/haikutrees.jpg" alt="Japan" width="300">
+  <img src="https://arthurberberyan.github.io/assets/haikutrees.jpg" alt="Japan" width="300">
 </p>
 
 <p align="center">
