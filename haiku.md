@@ -3,7 +3,7 @@ title: haiku
 layout: page
 permalink: /haiku
 ---
-
+<html lang="en">
 <p align="center">
   <img src="https://arthurberberyan.github.io/assets/haikutrees.jpg" alt="Japan" width="300">
 </p>
