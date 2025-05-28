@@ -1,5 +1,5 @@
 ---
-title: arthur
+title: arthur berberyan
 layout: page
 permalink: /arthur
 ---
