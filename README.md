@@ -1,4 +1,4 @@
-c---
+---
 title: home
 layout: page
 permalink: /
