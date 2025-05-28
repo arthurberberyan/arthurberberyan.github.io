@@ -9,29 +9,29 @@ permalink: /research
 <ul>
   <li>
     <u>The search for star-planet interactions in exoplanet systems with highly elliptical orbits</u><br>
-    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em> – <a href="https://aas245-aas.ipostersessions.com/Default.aspx?s=9D-55-24-B1-41-8A-7D-8E-D4-BC-EB-DF-4D-28-6E-39"> iPoster</a>
+    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em> ~ <a href="https://aas245-aas.ipostersessions.com/Default.aspx?s=9D-55-24-B1-41-8A-7D-8E-D4-BC-EB-DF-4D-28-6E-39">iPoster</a>
   </li>
   
   <li>
     <u>Searching for mode coupling in magnetic bright points</u><br>
-    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> – <a href="https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing">slides</a>
+    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> ~ <a href="https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing">slides</a>
   </li>
   
   <li>
     <u>The Search for Mode Coupling in the Lower Solar Atmosphere</u><br>
-    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> - <a href="https://zenodo.org/records/13000314">DOI</a>
+    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> ~ <a href="https://zenodo.org/records/13000314">DOI</a>
 
 
   </li>
   
   <li>
     <u>The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</u><br>
-    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> – <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">slides</a>
+    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> ~ <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">slides</a>
   </li>
   
   <li>
     <u>Elastic Wave Propagation in Compressed Phononic Crystals</u><br>
-    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> – <a href="https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view">poster</a>
+    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> ~ <a href="https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view">poster</a>
   </li>
 </ul>
 
