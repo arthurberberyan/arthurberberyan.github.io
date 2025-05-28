@@ -1,5 +1,5 @@
 # Example Site settings
-
+<meta name="google-site-verification" content="jFU2IiO8JgDQAU5ezo10jyJUL2tsa-I2r0Sb13pk2c0" />
 google_analytics: UA-NNNNNNNN-N
 
 header_pages:
@@ -10,7 +10,7 @@ header_pages:
   - haiku.md
 
 footer: '<em>I laugh when I hear that the fish in the water is thirsty. -Kabir</em>'
-<meta name="google-site-verification" content="jFU2IiO8JgDQAU5ezo10jyJUL2tsa-I2r0Sb13pk2c0" />
+
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
