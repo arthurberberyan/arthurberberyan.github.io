@@ -35,7 +35,7 @@ permalink: /research
   </li>
 </ul>
 
-<h2><u>Research Experience</u></h2>
+<h2>Research Experience</h2>
 
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Solar Physics Researcher</h3>
