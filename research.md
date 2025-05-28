@@ -3,7 +3,7 @@ title: research
 layout: page
 permalink: /research
 ---
-
+<html lang="en">
 <h2>Conferences & Presentations</h2>
 
 <ul>
