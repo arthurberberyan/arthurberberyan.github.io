@@ -3,6 +3,7 @@ title: arthur berberyan
 layout: page
 permalink: /arthur
 ---
+<html lang="en">
 <p align="center">
   <img src="https://arthurberberyan.github.io/assets/profilenew.jpg" alt="Arthur" width="250">
 </p>
