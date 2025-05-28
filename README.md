@@ -3,6 +3,7 @@ title: home
 layout: page
 permalink: /
 ---
+<html lang="en">
 <head>
 <title>Arthur Berberyan</title>
 <meta name="google-site-verification" content="jFU2IiO8JgDQAU5ezo10jyJUL2tsa-I2r0Sb13pk2c0" />
