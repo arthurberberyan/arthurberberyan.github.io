@@ -10,14 +10,8 @@ permalink: /
 </head>
 <h1>Arthur Berberyan</h1><br>
 Welcome to my page. I am a newly graduated physics student from California State University, Northridge, and an upcoming Ph.D. student at the University of California, San Diego. Please click the additional headers at the top to learn more about me.
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
 
-<a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
-  <i class="fab fa-orcid"></i> ORCID
-</a>
-
-
+<a href="https://www.linkedin.com/in/arthurberberyan/" target="_blank">LinkedIn</a>
+<a href="https://orcid.org/my-orcid?orcid=0009-0009-8695-2558" target="_blank">ORCID</a>
+  
 <meta name="description" content="Academic website of Arthur Berberyan, graduate student, astronomer, researcher, UCSD.">
