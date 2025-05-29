@@ -8,8 +8,8 @@ permalink: /research
 
 <ul>
   <li>
-    <u>The search for star-planet interactions in exoplanet systems with highly elliptical orbits</u><br>
-    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em> ~ <a href="https://aas245-aas.ipostersessions.com/Default.aspx?s=9D-55-24-B1-41-8A-7D-8E-D4-BC-EB-DF-4D-28-6E-39">iPoster</a>
+    <a href="https://aas245-aas.ipostersessions.com/Default.aspx?s=9D-55-24-B1-41-8A-7D-8E-D4-BC-EB-DF-4D-28-6E-39">The search for star-planet interactions in exoplanet systems with highly elliptical orbits</a><br>
+    Poster session at the 245th American Astronomical Society (AAS) Meeting, National Harbor, Maryland. <em>(January 2025)</em>
   </li>
   
   <li>
