@@ -24,7 +24,7 @@ permalink: /research
   
   <li>
     <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</a><br>
-    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> 
+    Presentation for the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> 
   </li>
   
   <li>
