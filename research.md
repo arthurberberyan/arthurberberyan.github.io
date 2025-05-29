@@ -13,25 +13,23 @@ permalink: /research
   </li>
   
   <li>
-    <u>Searching for mode coupling in magnetic bright points</u><br>
-    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> ~ <a href="https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing">slides</a>
+    <a href="https://drive.google.com/file/d/1k5PuWFHQ1nTbGnhQjQFnaVT-oCFdSaXd/view?usp=sharing">Searching for mode coupling in magnetic bright points</a><br>
+    Presentation at the Department of Physics & Astronomy Colloquium, California State University, Northridge. <em>(September 2024)</em> 
   </li>
   
   <li>
-    <u>The Search for Mode Coupling in the Lower Solar Atmosphere</u><br>
-    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> ~ <a href="https://zenodo.org/records/13000314">DOI</a>
-
-
+    <a href="https://zenodo.org/records/13000314">The Search for Mode Coupling in the Lower Solar Atmosphere</a><br>
+    Presented at Cool Stars 22, University of California, San Diego. <em>(June 2024)</em> 
   </li>
   
   <li>
-    <u>The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</u><br>
-    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> ~ <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">slides</a>
+    <a href="https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view">The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun</a><br>
+    Presentation to the Association of Retired Faculty (ARF), California State University, Northridge. <em>(May 2024)</em> 
   </li>
   
   <li>
-    <u>Elastic Wave Propagation in Compressed Phononic Crystals</u><br>
-    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> ~ <a href="https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view">poster</a>
+    <a href="https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view">Elastic Wave Propagation in Compressed Phononic Crystals</a><br>
+    Presented at the Center for Complex Materials, Princeton University. <em>(August 2022)</em> 
   </li>
 </ul>
 
