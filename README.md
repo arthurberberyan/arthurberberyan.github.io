@@ -13,5 +13,5 @@ Welcome to my page. I am a newly graduated physics student from California State
 
 <h2>Fun Link</h2>
 <ul>
-<li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day</ul>
+<li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day
 <meta name="description" content="Academic website of Arthur Berberyan, graduate phd student, astronomer, researcher, UCSD.">
