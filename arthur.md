@@ -1,5 +1,5 @@
 ---
-title: /arthur
+title: arthur
 layout: page
 permalink: /arthur
 ---
