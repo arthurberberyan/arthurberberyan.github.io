@@ -5,7 +5,7 @@ permalink: /haiku
 ---
 <html lang="en">
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/haikutrees.jpg" alt="Japan" width="300">
+<img src="https://arthurberberyan.github.io/assets/haikutrees.jpg" alt="Japan" width="300">
 
 <p align="center">
 <em>  This dewdrop world —<br>
