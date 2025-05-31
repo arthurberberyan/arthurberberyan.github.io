@@ -11,5 +11,7 @@ permalink: /
 <h1>Arthur Berberyan | Graduate Student</h1><br>
 Welcome to my page. I am a newly graduated physics student from California State University, Northridge, and an incoming Ph.D. student at the University of California, San Diego. Please click the additional headers at the top to learn more about me.
 
-<li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day
+<h2>Fun Link</h2>
+<ul>
+<li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day</ul>
 <meta name="description" content="Academic website of Arthur Berberyan, graduate phd student, astronomer, researcher, UCSD.">
