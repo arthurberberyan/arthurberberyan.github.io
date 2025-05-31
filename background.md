@@ -1,5 +1,5 @@
 ---
-title: background
+title: /background
 layout: page
 permalink: /background
 ---

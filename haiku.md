@@ -1,5 +1,5 @@
 ---
-title: haiku
+title: /haiku
 layout: page
 permalink: /haiku
 ---
