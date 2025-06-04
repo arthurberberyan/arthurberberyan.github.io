@@ -58,7 +58,7 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-    My research focuses on placeholder topics such as ... (something exciting with exoplanets, this is coming soon!)
+  My current research interests lie at the intersection of stellar dynamics and exoplanets, with a focus on their detection methods, characterizations, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
 
   <h2>Education</h2>
