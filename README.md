@@ -15,11 +15,9 @@ Welcome to my page. I am a newly graduated physics student from California State
 <ul>
 <li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day
 <li><a href="https://csh.bz/line/05x6.html">05x6
-</ul>
   
 <h2>Other</h2>
 <ul>
 <li><a href="https://orcid.org/0009-0009-8695-2558">ORCID</li>
 <li><a href="https://www.linkedin.com/in/arthurberberyan">LinkedIn</li>
-</ul>
 <meta name="description" content="Academic website of Arthur Berberyan, graduate phd student, astronomer, researcher, UCSD.">
