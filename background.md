@@ -110,7 +110,7 @@ permalink: /background
   </div>
 </div>
 
-  <p align="center">
+<p align="center">
   <img src="https://arthurberberyan.github.io/assets/sps.jpg" alt="CSUN Logo's Photo" width="40">
 </p> 
 
