@@ -58,7 +58,7 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-  My current research interests lie at the intersection of stellar dynamics and exoplanets with a focus on their formation, detection methods, characterization, planetary habitability, and the search for Earth-like worlds around low-mass stars.
+  My current research interests lie at the intersection of stellar dynamics and exoplanets, with a focus on their formation, detection methods, characterization, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
 
   <h2>Education</h2>
@@ -104,7 +104,8 @@ permalink: /background
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
     <p style="margin: 0;">
-      I am also a member of the Sigma Pi Sigma physics and astronomy honor society.
+      I am also a member of the Sigma Pi Sigma physics and astronomy<br>
+      honor society.
     </p>
   </div>
 </div>
