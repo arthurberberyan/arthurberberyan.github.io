@@ -101,9 +101,14 @@ permalink: /background
   <img src="https://arthurberberyan.github.io/csun.png" alt="CSUN Logo's Photo" width="98">
 </p> 
 
- <p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <div>
+     <p style="margin: 0;">
     I am also a member of the Sigma Pi Sigma physics and astronomy honor society.
   </p>
+  </div>
+</div>
 
   <p align="center">
   <img src="https://arthurberberyan.github.io/assets/sps.jpg" alt="CSUN Logo's Photo" width="40">
