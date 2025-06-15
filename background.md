@@ -58,7 +58,7 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-  My current research interests lie at the intersection of stellar dynamics and exoplanets, with a focus on their detection methods, formation, characterization, planetary habitability, and the search for Earth-like worlds around low-mass stars.
+  My current research interests lie at the intersection of stellar dynamics and exoplanets, with a focus on their formation, detection methods, characterization, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
 
   <h2>Education</h2>
