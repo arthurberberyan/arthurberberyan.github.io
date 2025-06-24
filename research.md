@@ -89,7 +89,7 @@ permalink: /research
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/plot.JPG" alt="Graph" width="300">
+  <img src="https://arthurberberyan.github.io/assets/plot.JPG" alt="Graph" width="330"> <br>
   <img src="https://arthurberberyan.github.io/assets/nexsci_logo.png" alt="NExScI" width="330">
 </p>
 
