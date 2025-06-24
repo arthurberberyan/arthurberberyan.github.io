@@ -82,7 +82,7 @@ permalink: /research
   </p>
 
   <ul>
-    <li>Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI) candidate stars and exoplanets with high image processing in near-infrared adaptive optics.</li>
+    <li>Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI) candidate stars with exoplanets via high image processing in near-infrared adaptive optics.</li>
     <li>Analyzed stellar data <b>(IDL)</b>, calculated star magnitudes, distances, and luminosities.</li>
     <li>Contributed to a better understanding of potential habitable planets and their host stars.</li>
   </ul>
