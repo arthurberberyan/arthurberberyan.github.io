@@ -49,6 +49,7 @@ permalink: /background
   <h1>Arthur Berberyan</h1>
   <div class="contact">
     Department of Astronomy & Astrophysics<br>
+    Center for Astrophysics and Space Sciences<br>
     University of California, San Diego<br>
     Email: <a href="mailto:aberberyan@ucsd.edu">aberberyan@ucsd.edu</a><br>
     <a href="berberyan_cv_utd.pdf">Curriculum Vitae (PDF)</a>
