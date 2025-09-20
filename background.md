@@ -146,6 +146,3 @@ permalink: /background
   <li>2023 Betty and Martin Altshiller Memorial for Outstanding Undergraduates</li>
   <li>2023 Paul and Amy Lee Undergraduate Scholarship for Excellence</li>
 </ul>
-
-</body>
-</html>
