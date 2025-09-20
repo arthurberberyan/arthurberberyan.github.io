@@ -67,7 +67,7 @@ permalink: /background
     <p style="margin: 0;">
       <strong>Ph.D. Student, Astronomy</strong><br>
       <em>University of California, San Diego</em><br>
-      <span>Starting September 2025</span>
+      <span>September 2025 - Present</span>
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ permalink: /background
 <ul>
   <li>
   <u>UC San Diego</u><br>
-  ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - )<br>
+  ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - Present)<br>
 <ul>
   <li>
     <u>California State University, Northridge</u><br>
