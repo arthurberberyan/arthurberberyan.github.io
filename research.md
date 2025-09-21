@@ -44,7 +44,7 @@ permalink: /research
   </p>
 
   <ul>
-    <li>TBA, more soon!</li>
+    <li>TBA, something exciting with estimating planet occurance rates from TESS data. More soon!</li>
   </ul>
 </div>
 
