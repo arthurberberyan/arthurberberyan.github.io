@@ -39,7 +39,7 @@ permalink: /research
   <h3 style="margin-bottom: 0;">Graduate Researcher</h3>
   <p style="margin: 0;">
     <em>University of California, San Diego</em><br>
-    Advisor: <a href="https://ctheissen.github.io/index.html">Dr. Chris Theissen</a><br>
+    Advisor: <a href="https://ctheissen.github.io/index.html">Dr. Christopher A. Theissen</a><br>
     <span>September 2025 – Present</span>
   </p>
 
