@@ -36,6 +36,19 @@ permalink: /research
 <h2>Research Experience</h2>
 
 <div style="margin-bottom: 2em;">
+  <h3 style="margin-bottom: 0;">Graduate Researcher</h3>
+  <p style="margin: 0;">
+    <em>University of California, San Diego</em><br>
+    Advisor: <a href="https://ctheissen.github.io/index.html">Dr. Chris Theissen</a><br>
+    <span>September 2025 – Present</span>
+  </p>
+
+  <ul>
+    <li>TBA, more soon!</li>
+  </ul>
+</div>
+
+<div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Solar Physics Researcher</h3>
   <p style="margin: 0;">
     <em>California State University, Northridge</em><br>
