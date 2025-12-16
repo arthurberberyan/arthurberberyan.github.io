@@ -125,7 +125,7 @@ permalink: /background
 <ul>
   <li>
   <u>UC San Diego</u><br>
-  ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - Present)<br>
+  ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - December 2025)<br>
 <ul>
   <li>
     <u>California State University, Northridge</u><br>
