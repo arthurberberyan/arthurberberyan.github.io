@@ -125,7 +125,7 @@ permalink: /background
 <ul>
   <li>
   <u>UC San Diego</u><br>
-  ASTR 15: <em>Astronomy in Science Fiction</em> (March 2026 - June 2026)<br>
+  ASTR 15: <em>Astronomy in Science Fiction (Discussion) </em> (March 2026 - June 2026)<br>
   ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - December 2025)<br>
 <ul>
   <li>
