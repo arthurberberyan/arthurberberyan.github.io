@@ -20,7 +20,7 @@ Welcome to my page. I am an Astronomy Ph.D. student in the Department of Astrono
 <h2>Other</h2>
 <ul>
   <li><a href="https://orcid.org/0009-0009-8695-2558">ORCID</a></li>
-  <li><a href="https://scholar.google.com/citations?user=eVd4P_oAAAAJ&hl=en">Google Scholar</a></li>
+  <li><a href="https://scholar.google.com/citations?user=tizd_9AAAAAJ">Google Scholar</a></li>
   <li><a href="https://www.linkedin.com/in/arthurberberyan">LinkedIn</a></li>
 </ul>
 
