@@ -59,7 +59,7 @@ permalink: /background
 
   <h2>Research Interests</h2>
   <p>
-  My current research interests lie at the intersection of stellar dynamics and exoplanets, with a focus on their formation, detection methods, characterization, planetary habitability, and the search for Earth-like worlds around low-mass stars.
+  My current research interests lie at the intersection of stellar astrophysics and exoplanets, with a focus on their formation, detection methods, characterizations, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
 
   <h2>Education</h2>
@@ -143,7 +143,7 @@ permalink: /background
   <li>2024 Department of Physics & Astronomy Travel Award</li>
   <li>2024 Department of Physics & Astronomy Summer Research Award</li>
   <li>2024 The Debra Costa Graduate Student Scholarship</li>
-  <li>2024 Association of Retired Faculty Award (1 of 2 in physics since 1999)</li>
+  <li>2024 Association of Retired Faculty Award</li>
   <li>2023 CSUNposium Winner in the Department of Science & Mathematics</li>
   <li>2023 Betty and Martin Altshiller Memorial for Outstanding Undergraduates</li>
   <li>2023 Paul and Amy Lee Undergraduate Scholarship for Excellence</li>
