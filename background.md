@@ -57,7 +57,7 @@ permalink: /background
 
   <hr>
 
-  <h2>Research Interests</h2>
+  <h2><u>Research Interests</u></h2>
   <p>
   My current research interests lie at the intersection of stellar astrophysics and exoplanets, with a focus on their formation, detection methods, characterizations, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
