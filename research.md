@@ -4,7 +4,7 @@ layout: page
 permalink: /research
 ---
 <html lang="en">
-<h2>Conferences & Presentations</h2>
+<h2><u>Conferences & Presentations</u></h2>
 
 <ul>
   <li>
@@ -33,7 +33,7 @@ permalink: /research
   </li>
 </ul>
 
-<h2>Research Experience</h2>
+<h2><u>Research Experience</u></h2>
 
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Graduate Researcher</h3>
