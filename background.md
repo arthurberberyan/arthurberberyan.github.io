@@ -62,7 +62,7 @@ permalink: /background
   My current research interests lie at the intersection of stellar astrophysics and exoplanets, with a focus on their formation, detection methods, characterizations, planetary habitability, and the search for Earth-like worlds around low-mass stars.
   </p>
 
-  <h2>Education</h2>
+  <h2><u>Education</u></h2>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
   <div>
     <p style="margin: 0;">
@@ -115,13 +115,13 @@ permalink: /background
   <img src="https://arthurberberyan.github.io/assets/sps.jpg" alt="CSUN Logo's Photo" width="40">
 </p> 
 
-  <h2>Publications</h2>
+  <h2><u>Publications</u></h2>
   <ul>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</a></em>. Astronomy & Astrophysics (A&A).</li>
     <li>J.T. Clark, et al. (2023). <em><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0">Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778</a></em>. The Astronomical Journal (AJ).</li>
   </ul>
 
-<h2>Teaching</h2>
+<h2><u>Teaching</u></h2>
 <ul>
   <li>
   <u>UC San Diego</u><br>
@@ -136,7 +136,7 @@ permalink: /background
   </li>
 </ul>
 
-<h2>Recent Awards & Honors</h2>
+<h2><u>Recent Awards & Honors</u></h2>
 <ul>
   <li>2025–2026 UCSD Astronomy & Astrophysics Achievement Award</li>
   <li>2025 Sigma Pi Sigma Honor Society Member, American Institute of Physics</li>
