@@ -115,7 +115,7 @@ permalink: /background
 
   <h2><u>Publications</u></h2>
   <ul>
-    <li><b>P.H. Keys, et al. (2026). <em><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2be4/meta">Small-scale Bright Point Characteristics at High-resolution with the Daniel K. Inouye Solar Telescope</a></em>. The Astronomical Journal (AJ).</li>
+    <li>P.H. Keys, et al. (2026). <em><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2be4/meta">Small-scale Bright Point Characteristics at High-resolution with the Daniel K. Inouye Solar Telescope</a></em>. The Astronomical Journal (AJ).</li>
     <li><b>A. Berberyan</b>, P.H. Keys, D.B. Jess, and D.J. Christian (2024). <em><a href="https://www.aanda.org/articles/aa/full_html/2024/10/aa51199-24/aa51199-24.html">A search for mode coupling in magnetic bright points</a></em>. Astronomy & Astrophysics (A&A).</li>
     <li>J.T. Clark, et al. (2023). <em><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0">Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778</a></em>. The Astronomical Journal (AJ).</li>
     <li>J. L. Christiansen, et al. (2023). <em><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac5c4c/meta">Scaling K2. V. Statistical Validation of 60 New Exoplanets From K2 Campaigns 2–18</a></em>. The Astronomical Journal (AJ).</li>
