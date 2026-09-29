@@ -4,7 +4,7 @@ layout: page
 permalink: /background
 ---
 <html lang="en">
-<head>
+<!-- <head>
   <meta charset="UTF-8">
   <title>Arthur Berberyan - Homepage</title>
   <style>
@@ -46,6 +46,8 @@ permalink: /background
   </style>
 </head>
 <body>
+-->
+
   <h1>Arthur Berberyan</h1>
   <div class="contact">
     Department of Astronomy & Astrophysics<br>
