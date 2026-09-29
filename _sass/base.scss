@@ -141,4 +141,5 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
 
+hr { border: none; border-top: var(--border); margin: 18px 0; }
 main img:not([src*="profilenew"]):not([src*="haikutrees"]) { mix-blend-mode: multiply; }
