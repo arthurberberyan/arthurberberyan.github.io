@@ -152,3 +152,9 @@ main img:not([src*="profilenew"]):not([src*="haikutrees"]) { mix-blend-mode: mul
   .menu ul { margin: 4px 0 8px !important; width: 100%; text-align: center; }
   .menu ul li { margin: 0 6px; }
 }
+
+main div[style*="margin-bottom"] { margin-bottom: 0 !important; }
+main div[style*="margin-bottom"] + div[style*="margin-bottom"] { margin-top: 2em; }
+main div[style*="margin-bottom"] ul { margin-top: 6px !important; }
+main p:empty { display: none; }
+main p[align="center"] { margin: 16px 0 40px !important; }
