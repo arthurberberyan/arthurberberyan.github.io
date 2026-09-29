@@ -146,3 +146,9 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 hr { border: none; border-top: var(--border); margin: 18px 0; }
 main a { text-decoration: none; background: linear-gradient(transparent 60%, #AFCBEF 60%); }
 main img:not([src*="profilenew"]):not([src*="haikutrees"]) { mix-blend-mode: multiply; }
+@media (max-width: 600px) {
+  .menu { flex-wrap: wrap; justify-content: center; padding: 6px 10px; }
+  .orbit { width: 88px; height: 32px; }
+  .menu ul { margin: 4px 0 8px !important; width: 100%; text-align: center; }
+  .menu ul li { margin: 0 6px; }
+}
