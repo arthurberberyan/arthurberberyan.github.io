@@ -9,7 +9,7 @@ header_pages:
   - research.md
   - haiku.md
 
-footer: '<em>I laugh when I hear that the fish in the water is thirsty. -Kabir</em>'
+footer: '<em>I laugh when I hear that the fish in the water is thirsty. — Kabir</em>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
