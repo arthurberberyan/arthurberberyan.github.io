@@ -126,12 +126,12 @@ permalink: /background
 <h2><u>Teaching</u></h2>
 <ul>
   <li>
-  <u>UC San Diego</u><br>
+  <em>UC San Diego</em><br>
   ASTR 15: <em>Astronomy in Science Fiction (Discussion) </em> (March 2026 - June 2026)<br>
   ASTR 124: <em>Exoplanets (Discussion)</em> (September 2025 - December 2025)<br>
 </li></ul><ul>
   <li>
-    <u>California State University, Northridge</u><br>
+    <em>California State University, Northridge</em><br>
     ASTR 154L: <em>Observational Astronomy Lab</em> (August 2023 – May 2025)<br>
     PHYS 220AL: <em>Mechanics Lab</em> (January 2024 – May 2024)<br>
     PHYS 100BL: <em>General Physics II Lab</em> (August 2023 – December 2023)
