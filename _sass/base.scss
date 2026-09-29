@@ -1,9 +1,9 @@
 @charset "utf-8";
 // @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
-@font-face { font-family: 'CMU Serif'; src: url('fonts/cmunrm.woff') format('woff'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'CMU Serif'; src: url('fonts/cmunbx.woff') format('woff'); font-weight: bold;   font-style: normal; }
-@font-face { font-family: 'CMU Serif'; src: url('fonts/cmunti.woff') format('woff'); font-weight: normal; font-style: italic; }
-@font-face { font-family: 'CMU Serif'; src: url('fonts/cmunbi.woff') format('woff'); font-weight: bold;   font-style: italic; }
+@font-face { font-family: 'Latin Modern Roman'; src: url('fonts/lmroman10-regular.woff2') format('woff2'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Latin Modern Roman'; src: url('fonts/lmroman10-bold.woff2') format('woff2'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Latin Modern Roman'; src: url('fonts/lmroman10-italic.woff2') format('woff2'); font-weight: normal; font-style: italic; }
+@font-face { font-family: 'Latin Modern Roman'; src: url('fonts/lmroman10-bolditalic.woff2') format('woff2'); font-weight: bold; font-style: italic; }
 
 
 /**
@@ -12,7 +12,7 @@
 //$base-font-family:     'Source Code Pro', monospace !default;
 //$base-font-size:       12.5px !default;
 //$mobile-font-size:     12px !default;
-$base-font-family:     'CMU Serif', Georgia, serif !default;
+$base-font-family:     'Latin Modern Roman', Georgia, serif !default;
 $base-font-size:       15px !default;
 $mobile-font-size:     15px !default;
 $base-line-height:     1.5 !default;
