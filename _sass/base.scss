@@ -57,8 +57,7 @@ footer { margin-bottom: 20px; }
 /**
  * Header/Navigation
  */
-.menu { display: flow-root; padding: 0 12px; background: rgba(127, 163, 209, .18); margin-bottom: 25px; }.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
-.menu ul li { display: inline;  margin-left: 10px; }
+.menu { display: flex; align-items: center; padding: 0 12px; background: rgba(127, 163, 209, .18); margin-bottom: 25px; }.menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: #000; background-color: #AFCBEF; }
 
@@ -141,6 +140,8 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
 
+.menu ul { margin-left: auto; }
+.orbit { width: 110px; height: 40px; }
 hr { border: none; border-top: var(--border); margin: 18px 0; }
 main a { text-decoration: none; background: linear-gradient(transparent 60%, #AFCBEF 60%); }
 main img:not([src*="profilenew"]):not([src*="haikutrees"]) { mix-blend-mode: multiply; }
