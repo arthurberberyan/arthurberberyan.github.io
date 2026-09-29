@@ -15,4 +15,4 @@ permalink: /arthur
 
 <p>I enjoy poems and practicing mindfulness (often through works like <em>The Sun My Heart</em> by Thích Nhất Hạnh alongside <em>Cynicism and Magic</em> by Chogyam Trungpa) in my free time. My current book recommendation is <em>Japanese Death Poems</em>, a collection written by Zen monks and haiku poets on the verge of death. It's an artful look at the tradition of <em>jisei</em>, or "<em>death poem</em>", and a final reflection of life.</p>
 
-<p>Aside from books, I am a big fan of tv series. Some of my favorite shows include <em>Breaking Bad</em>, <em>Better Call Saul</em>, <em>The Sopranos</em>, and <em>Mad Men</em>.</p>
+<p>Aside from books, I am a big fan of TV. Some of my favorite shows include <em>Breaking Bad</em>, <em>Better Call Saul</em>, <em>The Sopranos</em>, and <em>Mad Men</em>.</p>
