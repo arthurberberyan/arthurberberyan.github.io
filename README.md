@@ -24,4 +24,4 @@ Welcome to my page. I am an Astronomy Ph.D. student in the Department of Astrono
   <li><a href="https://www.linkedin.com/in/arthurberberyan">LinkedIn</a></li>
 </ul>
 
-<meta name="description" content=" Academic website of Arthur Berberyan, graduate phd student, astronomer, researcher, UCSD.">
+<!-- <meta name="description" content=" Academic website of Arthur Berberyan, graduate phd student, astronomer, researcher, UCSD."> -->
