@@ -1,6 +1,10 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
   <div class="menu">
+    <header>
+  <div class="menu">
+    <img class="orbit" src="{{ '/assets/orbit.svg' | relative_url }}" alt="">
+    <ul>
     <ul>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
