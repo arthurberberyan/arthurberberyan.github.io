@@ -112,7 +112,7 @@ permalink: /background
 </div>
 
 <p align="center">
-  <img src="https://arthurberberyan.github.io/assets/sps.jpg" alt="CSUN Logo's Photo" width="40">
+  <img src="https://arthurberberyan.github.io/assets/sps.jpg" alt="Sigma Pi Sigma" width="40">
 </p> 
 
   <h2><u>Publications</u></h2>
