@@ -16,6 +16,7 @@ listen_for_clients_preferred_style: false # true or false (default)
 
 title: Arthur Berberyan
 description: Academic website of Arthur Berberyan, astronomy Ph.D. student at UC San Diego.
+timezone: America/Los_Angeles
 
 plugins:
   - jekyll-seo-tag
