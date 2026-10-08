@@ -11,13 +11,13 @@ permalink: /
 <h1>Arthur Berberyan | Graduate Student</h1>
 Welcome to my page. I am an Astronomy Ph.D. student in the Department of Astronomy & Astrophysics at the University of California, San Diego. Please click the additional headers at the top to learn more about me.
 
-<h2>Fun Links</h2>
+<h2><u>Fun Links</u></h2>
 <ul>
   <li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day</a></li>
   <li><a href="https://csh.bz/line/05x6.html">05x6</a></li>
 </ul>
 
-<h2>Other</h2>
+<h2><u>Other</u></h2>
 <ul>
   <li><a href="https://orcid.org/0009-0009-8695-2558">ORCID</a></li>
   <li><a href="https://scholar.google.com/citations?hl=en&user=eVd4P_oAAAAJ">Google Scholar</a></li>
