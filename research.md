@@ -97,8 +97,7 @@ in deforming materials.</li>
   </p>
 
   <ul>
-    <li>Using data from NASA’s TESS Satellite, Palomar, and Keck Observatories, I processed imaging and
-categorization of 150+ TESS Objects of Interest (TOI) stars with exoplanets alongside high-resolution
+    <li>Using data from NASA’s TESS Satellite, Palomar, and Keck Observatories, I categorized 150+ TESS Objects of Interest (TOI) stars with exoplanets alongside high-resolution
 image processing with near-infrared adaptive optics.</li>
   </ul>
 </div>
