@@ -44,9 +44,11 @@ permalink: /research
   </p>
 
   <ul>
-    <li>TBA, something exciting with estimating planet occurrence rates with TESS data. More soon!</li>
+    <li>Currently, my research has focused on planetary occurrence rates of transiting Earth/Super-Earths around low mass stars, using their light curves to test the accuracy of their orbital periods and in the hopes of finding new planets!</li>
   </ul>
 </div>
+
+
 
 <div style="margin-bottom: 2em;">
   <h3 style="margin-bottom: 0;">Solar Physics Researcher</h3>
@@ -57,9 +59,9 @@ permalink: /research
   </p>
 
   <ul>
-    <li>Investigated the coronal heating problem by studying mode coupling in magnetic bright points within the different layers of the Sun.</li>
-    <li>Used <b>IDL</b> with bash scripting to derive light curves, calculate frequencies, periods, and estimate energy fluxes to identify potential wave heating mechanisms.</li>
-    <li>The paper was published in <strong>August 2024</strong> (<em>woo-hoo!</em>)</li>
+    <li>I investigated the coronal heating issue by studying mode coupling in magnetic bright points within the
+different layers of the Sun to better understand how energy is transported to heat the chromosphere
+and the overall energy budget.</li>
   </ul>
 </div>
 
@@ -76,9 +78,9 @@ permalink: /research
   </p>
 
   <ul>
-    <li>Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals.</li>
-    <li>Collaborated with Princeton graduate students, incorporating <b>Python</b> coding with open source <b>FEniCSx</b> to solve PDEs and gain insight into how elastic waves behave in deforming materials.</li>
-    <li>Conclusions led to promising applications in noise reduction and vibrational control.</li>
+    <li>At the Center for Complex Materials (PCCM), I participated in work involving Acoustic Metamate-
+rials. I looked into elastic wave propagation in compressed phononic crystals, and how they behaved
+in deforming materials.</li>
   </ul>
 </div>
 
@@ -95,9 +97,9 @@ permalink: /research
   </p>
 
   <ul>
-    <li>Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI) candidate stars with exoplanets via high image processing in near-infrared adaptive optics.</li>
-    <li>Analyzed stellar data <b>(IDL)</b>, calculated star magnitudes, distances, and luminosities.</li>
-    <li>Contributed to a better understanding of potential habitable planets and their host stars.</li>
+    <li>Using data from NASA’s TESS Satellite, Palomar, and Keck Observatories, I processed imaging and
+categorization of 150+ TESS Objects of Interest (TOI) stars with exoplanets alongside high-resolution
+image processing with near-infrared adaptive optics.</li>
   </ul>
 </div>
 
@@ -114,8 +116,7 @@ permalink: /research
   </p>
 
 <ul>
-    <li>Collaborated with Caltech astronomers with the 200-inch <a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Hale Telescope</a> to capture imaging of Kepler star systems with exoplanets.</li>
-    <li>Captured imaging of individual stars and data analysis from high-quality image processing.</li>
+    <li>Collaborated with Caltech astronomers imaging star systems with candidate exoplanets using the 200-inch <a href="https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"> Hale Telescope</a></li>
   </ul>
 </div>
 
